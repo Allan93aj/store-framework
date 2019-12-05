@@ -3,7 +3,8 @@
     "blocks": [
       "info-card",
       "flex-layout.row",
-      "shelf"
+      "shelf",
+      "slider-layout"
     ]
   },
   "flex-layout.row":{
